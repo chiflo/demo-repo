@@ -1,3 +1,3 @@
 # Demo
 
-Practice of the Git videos; errors and corrections.
+Practice of the Git videos; errors and corrections!
